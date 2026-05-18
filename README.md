@@ -5,7 +5,7 @@
 📍 Somerset West, Western Cape  
 📞 076 412 3512  
 ✉ ayrtonwilliams1@gmail.com  
-✉ 220086168@mycput.ac.za 
+✉ 220086168@mycput.ac.za   
 🔗 [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B33vebzRETXC2f30BB6B5eQ%3D%3D)
 
 ---
