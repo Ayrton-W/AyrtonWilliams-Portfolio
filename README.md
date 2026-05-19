@@ -152,15 +152,41 @@ Parel Vallei High School
 - **R:** I realized career growth is a continuous process and now feel empowered to take intentional steps toward my goals.
 </details>
 
-- Advanced SQL: Database Design & Management  
-- Microsoft SQL Server 2016: Query Data  
-- Programming Foundations: Object-Oriented Design  
-- Software Architecture Foundations  
-- Agile Foundations & Agile Testing  
-- Project Management Foundations  
-- Software Development Life Cycle (SDLC)  
-- Figma Essential Training  
-- CSS Layouts: Flexbox & Grid  
+<details>
+<summary>Values and Ethics Case Studies in Action</summary>
+  
+[Values and Ethics Case Studies in Action.pdf](https://github.com/user-attachments/files/28016016/CertificateOfCompletion_Values.and.Ethics.Case.Studies.in.Action.pdf)
+
+**Reflection**
+- **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
+- **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
+- **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
+- **R:** I realized career growth is a continuous process and now feel empowered to take intentional steps toward my goals.
+</details>
+
+<details>
+<summary>Managing a Diverse Team 2023</summary>
+  
+[CertificateOfCompletion_Managing a Diverse Team 2023.pdf](https://github.com/user-attachments/files/28019353/CertificateOfCompletion_Managing.a.Diverse.Team.2023.pdf)
+
+**Reflection**
+- **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
+- **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
+- **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
+- **R:** I realized career growth is a continuous process and now feel empowered to take intentional steps toward my goals.
+</details>
+
+<details>
+<summary>BBC Microbit</summary>
+  
+[BBC Microbit.pdf](https://github.com/user-attachments/files/28019887/Ayrton.Williams.BBC.Microbit.pdf)
+
+**Reflection**
+- **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
+- **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
+- **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
+- **R:** I realized career growth is a continuous process and now feel empowered to take intentional steps toward my goals.
+</details>
 
 ---
 
