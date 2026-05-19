@@ -46,8 +46,8 @@ Parel Vallei High School
 <details>
 <summary>Advanced SQL: Database Design & Management</summary>
 
-![Advanced SQL: Database Design & Management]([CertificateOfCompletion_Advanced SQL Project Design and Manage a Database.pdf](https://github.com/user-attachments/files/28011291/CertificateOfCompletion_Advanced.SQL.Project.Design.and.Manage.a.Database.pdf)
-)
+![Advanced SQL: Database Design & Management](https://github.com/user-attachments/files/28011291/CertificateOfCompletion_Advanced.SQL.Project.Design.and.Manage.a.Database.pdf)
+
 
 **Reflection**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
