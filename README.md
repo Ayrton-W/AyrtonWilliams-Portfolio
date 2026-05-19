@@ -46,8 +46,7 @@ Parel Vallei High School
 <details>
 <summary>Advanced SQL: Database Design & Management</summary>
 
-![Advanced SQL: Database Design & Management](https://github.com/user-attachments/files/28011291/CertificateOfCompletion_Advanced.SQL.Project.Design.and.Manage.a.Database.pdf)
-
+[Advanced SQL: Database Design & Management](https://github.com/user-attachments/files/28011291/CertificateOfCompletion_Advanced.SQL.Project.Design.and.Manage.a.Database.pdf)
 
 **Reflection**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
@@ -67,6 +66,92 @@ Parel Vallei High School
 - **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
 - **R:** I realized career growth is a continuous process and now feel empowered to take intentional steps toward my goals.
 </details>
+
+<details>
+<summary>Programming Foundations: Object-Oriented Design</summary>
+
+[Programming Foundations: Object-Oriented Design.pdf](https://github.com/user-attachments/files/28011772/CertificateOfCompletion_Programming.Foundations.ObjectOriented.Design.pdf)
+
+**Reflection**
+- **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
+- **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
+- **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
+- **R:** I realized career growth is a continuous process and now feel empowered to take intentional steps toward my goals.
+</details>
+
+<details>
+<summary>Software Architecture Foundations</summary>
+
+[Software Architecture Foundations.pdf](https://github.com/user-attachments/files/28011861/CertificateOfCompletion_Software.Architecture.Foundations.pdf)
+
+**Reflection**
+- **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
+- **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
+- **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
+- **R:** I realized career growth is a continuous process and now feel empowered to take intentional steps toward my goals.
+</details>
+
+<details>
+<summary>Agile Foundations & Agile Testing</summary>
+  
+[Agile Foundations.pdf](https://github.com/user-attachments/files/28011891/CertificateOfCompletion_Agile.Foundations.pdf)
+[Agile Testing.pdf](https://github.com/user-attachments/files/28011894/CertificateOfCompletion_Agile.Testing.pdf)
+
+**Reflection**
+- **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
+- **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
+- **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
+- **R:** I realized career growth is a continuous process and now feel empowered to take intentional steps toward my goals.
+</details>
+
+<details>
+<summary>Project Management Foundations</summary>
+  
+[Project Management Foundations.pdf](https://github.com/user-attachments/files/28011960/CertificateOfCompletion_Project.Management.Foundations.pdf)
+
+**Reflection**
+- **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
+- **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
+- **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
+- **R:** I realized career growth is a continuous process and now feel empowered to take intentional steps toward my goals.
+</details>
+
+<details>
+<summary>Software Development Life Cycle (SDLC)</summary>
+  
+[Software Development Life Cycle SDLC.pdf](https://github.com/user-attachments/files/28012048/CertificateOfCompletion_Software.Development.Life.Cycle.SDLC.pdf)
+
+**Reflection**
+- **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
+- **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
+- **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
+- **R:** I realized career growth is a continuous process and now feel empowered to take intentional steps toward my goals.
+</details>
+
+<details>
+<summary>Figma Essential Training</summary>
+  
+[Figma Essential Training The Basics.pdf](https://github.com/user-attachments/files/28012213/CertificateOfCompletion_Figma.Essential.Training.The.Basics.pdf)
+
+**Reflection**
+- **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
+- **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
+- **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
+- **R:** I realized career growth is a continuous process and now feel empowered to take intentional steps toward my goals.
+</details>
+
+<details>
+<summary>CSS Layouts: Flexbox & Grid</summary>
+  
+[CSS Layouts From Float to Flexbox and Grid.pdf](https://github.com/user-attachments/files/28012308/CertificateOfCompletion_CSS.Layouts.From.Float.to.Flexbox.and.Grid.pdf)
+
+**Reflection**
+- **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
+- **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
+- **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
+- **R:** I realized career growth is a continuous process and now feel empowered to take intentional steps toward my goals.
+</details>
+
 - Advanced SQL: Database Design & Management  
 - Microsoft SQL Server 2016: Query Data  
 - Programming Foundations: Object-Oriented Design  
