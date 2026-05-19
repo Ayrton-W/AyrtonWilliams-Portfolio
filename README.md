@@ -1,6 +1,6 @@
 # Digital Portfolio
 # Ayrton Williams
-**Software Developer | ICT Application Development Student**
+**💻 Software Developer | ICT Application Development Student**
 
 📍 Somerset West, Western Cape  
 📞 076 412 3512  
@@ -47,6 +47,8 @@ Parel Vallei High School
 <summary>Advanced SQL: Database Design & Management</summary>
 
 [Advanced SQL: Database Design & Management](https://github.com/user-attachments/files/28011291/CertificateOfCompletion_Advanced.SQL.Project.Design.and.Manage.a.Database.pdf)
+<img width="1182" height="912" alt="image" src="https://github.com/user-attachments/assets/f6a0b615-14b6-4a40-ac08-290c13dbc4db" />
+
 
 **Reflection**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
@@ -167,7 +169,7 @@ Parel Vallei High School
 <details>
 <summary>Managing a Diverse Team 2023</summary>
   
-[CertificateOfCompletion_Managing a Diverse Team 2023.pdf](https://github.com/user-attachments/files/28019353/CertificateOfCompletion_Managing.a.Diverse.Team.2023.pdf)
+[Managing a Diverse Team 2023.pdf](https://github.com/user-attachments/files/28019353/CertificateOfCompletion_Managing.a.Diverse.Team.2023.pdf)
 
 **Reflection**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
