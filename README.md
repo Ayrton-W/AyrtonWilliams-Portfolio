@@ -43,6 +43,18 @@ Parel Vallei High School
 ---
 
 ## 📚 Professional Certifications & Training
+<details>
+<summary>Advanced SQL: Database Design & Management</summary>
+
+![Advanced SQL: Database Design & Management]([CertificateOfCompletion_Advanced SQL Project Design and Manage a Database.pdf](https://github.com/user-attachments/files/28011291/CertificateOfCompletion_Advanced.SQL.Project.Design.and.Manage.a.Database.pdf)
+)
+
+**Reflection**
+- **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
+- **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
+- **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
+- **R:** I realized career growth is a continuous process and now feel empowered to take intentional steps toward my goals.
+</details>
 - Advanced SQL: Database Design & Management  
 - Microsoft SQL Server 2016: Query Data  
 - Programming Foundations: Object-Oriented Design  
