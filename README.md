@@ -120,7 +120,8 @@ Parel Vallei High School
 <summary>Project Management Foundations</summary>
   
 [Project Management Foundations.pdf](https://github.com/user-attachments/files/28011960/CertificateOfCompletion_Project.Management.Foundations.pdf)
-<img width="1018" height="802" alt="image" src="https://github.com/user-attachments/assets/565c11e3-a3a3-4c94-944d-9e94e770eb2e" />
+<img width="1018" height="802" alt="image" src="https://github.com/user-attachments/assets/5d8e0d3a-181c-4d2a-ac42-9d646aa5c841" />
+
 
 **Reflection**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
@@ -133,7 +134,7 @@ Parel Vallei High School
 <summary>Software Development Life Cycle (SDLC)</summary>
   
 [Software Development Life Cycle SDLC.pdf](https://github.com/user-attachments/files/28012048/CertificateOfCompletion_Software.Development.Life.Cycle.SDLC.pdf)
-<img width="1018" height="802" alt="image" src="https://github.com/user-attachments/assets/f8cba098-f024-4c45-bc09-261c2f8290bf" />
+<img width="1018" height="802" alt="image" src="https://github.com/user-attachments/assets/48cda68a-53e3-4cec-9f7d-8925da8c1603" />
 
 **Reflection**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
