@@ -49,8 +49,7 @@ Parel Vallei High School
 [Advanced SQL: Database Design & Management](https://github.com/user-attachments/files/28011291/CertificateOfCompletion_Advanced.SQL.Project.Design.and.Manage.a.Database.pdf)
 <img width="1182" height="912" alt="image" src="https://github.com/user-attachments/assets/f6a0b615-14b6-4a40-ac08-290c13dbc4db" />
 
-
-**Reflection**
+**Reflection:**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
 - **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
 - **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
@@ -63,8 +62,7 @@ Parel Vallei High School
 [Microsoft SQL Server 2016: Query Data.pdf](https://github.com/user-attachments/files/28011555/CertificateOfCompletion_Microsoft.SQL.Server.2016.Query.Data.pdf)
 <img width="1220" height="917" alt="image" src="https://github.com/user-attachments/assets/55a8cc04-2eab-4420-87ae-042dbb3f2401" />
 
-
-**Reflection**
+**Reflection:**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
 - **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
 - **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
@@ -77,8 +75,7 @@ Parel Vallei High School
 [Programming Foundations: Object-Oriented Design.pdf](https://github.com/user-attachments/files/28011772/CertificateOfCompletion_Programming.Foundations.ObjectOriented.Design.pdf)
 <img width="1186" height="915" alt="image" src="https://github.com/user-attachments/assets/7ddec0b4-6ed4-4a1f-a384-e6b64c54bc9f" />
 
-
-**Reflection**
+**Reflection:**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
 - **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
 - **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
@@ -91,8 +88,7 @@ Parel Vallei High School
 [Software Architecture Foundations.pdf](https://github.com/user-attachments/files/28011861/CertificateOfCompletion_Software.Architecture.Foundations.pdf)
 <img width="1187" height="917" alt="image" src="https://github.com/user-attachments/assets/1e138e06-5735-41df-bb39-8404962b3fd9" />
 
-
-**Reflection**
+**Reflection:**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
 - **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
 - **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
@@ -107,9 +103,7 @@ Parel Vallei High School
 <img width="1185" height="915" alt="image" src="https://github.com/user-attachments/assets/43d7ab02-853a-4fcc-9d6c-952fea38f7ff" />
 <img width="1185" height="912" alt="image" src="https://github.com/user-attachments/assets/e2bb3011-4e68-4722-8265-d15de581c8f4" />
 
-
-
-**Reflection**
+**Reflection:**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
 - **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
 - **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
@@ -120,10 +114,9 @@ Parel Vallei High School
 <summary>Project Management Foundations</summary>
   
 [Project Management Foundations.pdf](https://github.com/user-attachments/files/28011960/CertificateOfCompletion_Project.Management.Foundations.pdf)
-<img width="1018" height="802" alt="image" src="https://github.com/user-attachments/assets/5d8e0d3a-181c-4d2a-ac42-9d646aa5c841" />
+<img width="1185" height="910" alt="image" src="https://github.com/user-attachments/assets/75776341-c190-47e3-a624-83c75d94636d" />
 
-
-**Reflection**
+**Reflection:**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
 - **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
 - **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
@@ -134,9 +127,9 @@ Parel Vallei High School
 <summary>Software Development Life Cycle (SDLC)</summary>
   
 [Software Development Life Cycle SDLC.pdf](https://github.com/user-attachments/files/28012048/CertificateOfCompletion_Software.Development.Life.Cycle.SDLC.pdf)
-<img width="1018" height="802" alt="image" src="https://github.com/user-attachments/assets/48cda68a-53e3-4cec-9f7d-8925da8c1603" />
+<img width="1185" height="915" alt="image" src="https://github.com/user-attachments/assets/b0a8d2ff-0d71-47bd-a5ec-3ee3e1cadcc1" />
 
-**Reflection**
+**Reflection:**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
 - **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
 - **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
@@ -147,9 +140,9 @@ Parel Vallei High School
 <summary>Figma Essential Training</summary>
   
 [Figma Essential Training The Basics.pdf](https://github.com/user-attachments/files/28012213/CertificateOfCompletion_Figma.Essential.Training.The.Basics.pdf)
-<img width="1224" height="1584" alt="image" src="https://github.com/user-attachments/assets/581192c6-7d41-4d51-9636-b4871c8ff8c6" />
+<img width="1182" height="915" alt="image" src="https://github.com/user-attachments/assets/15d49a92-1f82-4204-b0a2-740f6a8e51e8" />
 
-**Reflection**
+**Reflection:**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
 - **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
 - **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
@@ -160,9 +153,9 @@ Parel Vallei High School
 <summary>CSS Layouts: Flexbox & Grid</summary>
   
 [CSS Layouts From Float to Flexbox and Grid.pdf](https://github.com/user-attachments/files/28012308/CertificateOfCompletion_CSS.Layouts.From.Float.to.Flexbox.and.Grid.pdf)
-<img width="1224" height="1584" alt="image" src="https://github.com/user-attachments/assets/d87a5f39-aed9-464e-ac0b-ea71eaaca027" />
+<img width="1182" height="912" alt="image" src="https://github.com/user-attachments/assets/3298900b-1a25-4937-809d-ae5a37cca052" />
 
-**Reflection**
+**Reflection:**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
 - **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
 - **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
@@ -173,9 +166,9 @@ Parel Vallei High School
 <summary>Values and Ethics Case Studies in Action</summary>
   
 [Values and Ethics Case Studies in Action.pdf](https://github.com/user-attachments/files/28016016/CertificateOfCompletion_Values.and.Ethics.Case.Studies.in.Action.pdf)
-<img width="1224" height="1584" alt="image" src="https://github.com/user-attachments/assets/3bdca1ca-b22c-46ba-8f30-3c250924ee32" />
+<img width="1182" height="917" alt="image" src="https://github.com/user-attachments/assets/844506b3-4ad0-4862-b392-2e4d2952b6bf" />
 
-**Reflection**
+**Reflection:**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
 - **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
 - **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
@@ -186,9 +179,9 @@ Parel Vallei High School
 <summary>Managing a Diverse Team 2023</summary>
   
 [Managing a Diverse Team 2023.pdf](https://github.com/user-attachments/files/28019353/CertificateOfCompletion_Managing.a.Diverse.Team.2023.pdf)
-<img width="1018" height="802" alt="image" src="https://github.com/user-attachments/assets/59a1e203-ba16-4a2f-ab29-45b583e07c6e" />
+<img width="1187" height="912" alt="image" src="https://github.com/user-attachments/assets/18c0f6cd-069a-4959-b3db-731b0176d46b" />
 
-**Reflection**
+**Reflection:**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
 - **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
 - **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
@@ -201,7 +194,7 @@ Parel Vallei High School
 [BBC Microbit.pdf](https://github.com/user-attachments/files/28019887/Ayrton.Williams.BBC.Microbit.pdf)
 <img width="1600" height="1190" alt="image" src="https://github.com/user-attachments/assets/beefed3e-d439-4dbf-95df-b52bbc40bc19" />
 
-**Reflection**
+**Reflection:**
 - **S:** I participated in a Career Development course to understand how to grow and plan my professional future.
 - **T:** I needed to learn how to take control of my career through goal-setting, planning, and reflection.
 - **A:** I explored career planning methods, reflected on my own journey, and practiced setting realistic goals.
