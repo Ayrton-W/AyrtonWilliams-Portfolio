@@ -175,8 +175,3 @@ https://github.com/user-attachments/assets/c35fa321-b40b-4171-a82b-1f55c95a0e0e
 </details>
 
 ---
-
-## 📌 Mock Interview
-Available upon request
-
----
